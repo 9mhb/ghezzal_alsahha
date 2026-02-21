@@ -54,7 +54,7 @@
     }
   };
 
-  var WA_NUMBER = '966566152625';
+  var WA_NUMBER = '966539834353';
 
   function buildWhatsAppURL(source, lang) {
     var message = (waMessages[lang] && waMessages[lang][source]) || waMessages.ar[source] || '';
